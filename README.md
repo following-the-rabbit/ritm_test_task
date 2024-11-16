@@ -15,6 +15,6 @@
 
 ### Результат:
 Решины 3 уровня задачи, они находятся в файлах репозитория:
-[**level_1**](https://github.com/following-the-rabbit/ritm_test_task/blob/main/ritm_level_1.py)
-[**level_2**](https://github.com/following-the-rabbit/ritm_test_task/blob/main/ritm_level_2.py)
-[**level_3**](https://github.com/following-the-rabbit/ritm_test_task/blob/main/ritm_level_3.py)
+- [**level_1**](https://github.com/following-the-rabbit/ritm_test_task/blob/main/ritm_level_1.py)
+- [**level_2**](https://github.com/following-the-rabbit/ritm_test_task/blob/main/ritm_level_2.py)
+- [**level_3**](https://github.com/following-the-rabbit/ritm_test_task/blob/main/ritm_level_3.py)
